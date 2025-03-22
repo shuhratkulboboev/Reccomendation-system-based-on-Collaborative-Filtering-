@@ -30,3 +30,8 @@ The dataset used is **MovieLens (ml-1m)**, containing:
 ```bash
 git clone https://github.com/your-username/movie-recommendation.git
 cd movie-recommendation
+
+🏆 Results
+✔️ Movies with similar genres are clustered together
+✔️ Highly rated movies are grouped closely in the latent space
+✔️ Personalized recommendations based on user preferences
