@@ -30,6 +30,7 @@ The dataset used is **MovieLens (ml-1m)**, containing:
 ```bash
 git clone https://github.com/your-username/movie-recommendation.git
 cd movie-recommendation
+```
 
 🏆 Results
 ✔️ Movies with similar genres are clustered together
